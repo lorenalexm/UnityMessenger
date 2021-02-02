@@ -1,5 +1,5 @@
 # Messenger
-A delegate-based event messenger system built for [Unity](https://unity.com). This work is a direct rewrite of [CSharpMessenger Extended](https://wiki.unity3d.com/index.php/CSharpMessenger_Extended) which was posted to the Unify Community Wiki back in its day. The initial work was authored by Magnus Wolffelt, with Rod Hyde quotations, and Julie Iaccarino.
+A delegate-based event messenger system built for [Unity](https://unity.com) projects. This work is a direct rewrite of [CSharpMessenger Extended](https://wiki.unity3d.com/index.php/CSharpMessenger_Extended) which was posted to the Unify Community Wiki back in its day. The initial work was authored by Magnus Wolffelt, with Rod Hyde quotations, and Julie Iaccarino.
 
 ## Usage
 The following code samples are designed to be ran within a [MonoBehaviour](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html) derived class; as can be seen with the use of Unity reserved method names.
